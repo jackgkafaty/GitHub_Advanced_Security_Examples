@@ -1,2 +1,3 @@
-# GitHub_Advanced_Security_Examples
-This repository has been created to provide example workflows of 3rd party integrations for code scanning
+# PHP Based GitHub Advance Security Demo
+
+This is the OWASP WebGoatPhP project using CodeQL and ShiftLeft to perform security analysis.
